@@ -13,7 +13,7 @@ namespace arrays_9._11._2021
             sayilar[1] = 20;
             sayilar[2] = 30;
             sayilar[3] = 40;
-            sayilar[4] = 40;
+            sayilar[4] = 50;
             
 
             for (int i = 0; i<sayilar.Length; i++)
